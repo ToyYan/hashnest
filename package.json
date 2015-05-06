@@ -1,0 +1,14 @@
+{
+	"author" : "Greg Balnis",
+	"name": "hashnest",
+	"version": "0.0.1",
+	"description": "Hashnest API client module",
+	"main" : "hashnest",
+	"repository" : {
+		"type" : "git",
+		"url" : "https://github.com/gbalnis/hashnest"
+		},
+	"dependencies" : {
+		"crypto" : "latest"
+		}
+}
