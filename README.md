@@ -5,6 +5,9 @@ Deployment
 * Install the module in your application (npm install path-to-the-module/hashnest/hashnest-x.x.x.tgz)
 * Update your_app/node_modules/hashnest/config.json with valid API key, secret and user name
 
+Ver. 0.0.3
+* The data types for the properties in the responses are now being restored
+
 Ver. 0.0.2
 * Implements getMarketOrderHistory API call (/api/v1/currency_markets/order_history)
 
